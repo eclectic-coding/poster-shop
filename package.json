@@ -26,6 +26,6 @@
   "devDependencies": {
     "eslint": "~7.7.0",
     "nodemon": "~2.0.4",
-    "reload": "~2.3.1"
+    "reload": "~3.1.0"
   }
 }
