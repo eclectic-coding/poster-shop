@@ -24,7 +24,7 @@
     "vue": "^2.6.12"
   },
   "devDependencies": {
-    "eslint": "~7.16.0",
+    "eslint": "~7.17.0",
     "nodemon": "~2.0.6",
     "reload": "~3.1.1"
   }
