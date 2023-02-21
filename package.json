@@ -13,7 +13,7 @@
     "url": "https://github.com/vuejsdevelopers/poster-shop"
   },
   "engines": {
-    "node": ">=v8.17.0"
+    "node": ">=v18.14.2"
   },
   "license": "UNLICENSED",
   "dependencies": {
